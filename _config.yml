@@ -82,10 +82,12 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Journal Articles'
+    title: 'Books'
   manuscripts:
-    title: 'Conference Proceedings'    
+    title: 'Journal Articles'
   conferences:
+    title: 'Conference Proceedings' 
+  reports:
     title: 'Technical Reports'
 
 # Site Settings
