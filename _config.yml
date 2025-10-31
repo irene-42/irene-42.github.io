@@ -33,7 +33,7 @@ author:
   email            : "sue.ahn@wisc.edu" 
 
   # Academic websites
-  academia         : "https://engineering.wisc.edu/directory/profile/sue-ahn/"
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.kr/citations?user=P-XC6WoAAAAJ&hl=en"
   inspire-hep      : # URL
