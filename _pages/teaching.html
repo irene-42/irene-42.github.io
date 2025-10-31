@@ -7,9 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+{% capture teaching_content %}
 ## Undergraduate
 **CEE370: Transportation Engineering**
 
 ## Graduate
 **CEE572: Transportation Operations**
 **CEE577: Traffic Flow Theory**
+{% endcapture %}
+{{ teaching_content | markdownify }}
