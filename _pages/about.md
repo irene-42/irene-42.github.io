@@ -36,5 +36,5 @@ Freight Transporation
 
 For more info
 ------
-[Curriculum Vitae](https://academicpages.github.io/markdown/)<br>
+[Curriculum Vitae](cv_sueahn.pdf)<br>
 [Mid-America Freight Coalition](https://midamericafreight.org/)
