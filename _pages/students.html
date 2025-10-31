@@ -5,6 +5,40 @@ permalink: /students/
 author_profile: true
 ---
 
-Current Students and Post Docs
+{% include base_path %}
 
-Previous Students
+{% capture teaching_content %}
+## Current Students and Post Docs
+### PhD
+**Yongju Kim**
+
+### Post Docs
+**Anupam Srivastava (2016 – Present)**
+
+## Previous Students
+### PhD
+**Xinzhi Zhong**
+**Jiwan Jang**
+**Wissam Kontar**
+**​Alqatani Thaar**
+**Yang Zhou**
+**Youngjun Han**
+**Soohyuk Bang**
+**Paulina Reina**
+**Srivatsav Kandala**
+**Zuduo Zheng**
+
+### MS (Thesis option)
+**Ghazale Jafarsalehi**
+**Sravani Vadlamani**
+**Srivatsav Kandala**
+**Tingting Ma**
+**Manasa Rayabhari**
+
+### Post Docs
+**Wissam Kontar (2023-2024)**
+**Yang Zhou (2019-2022)**
+**Youngjun Han (2018–2019)**
+**Dangue Chen (2013-2016)**
+{% endcapture %}
+{{ teaching_content | markdownify }}
