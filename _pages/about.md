@@ -11,18 +11,18 @@ Dr. Soyoung Ahn is a Professor in the Department of Civil and Environmental Engi
 
 Education
 ======
-Ph.D. Civil and Environmental Engineering, University of California, Berkeley, 2005  
-M.S. Civil and Environmental Engineering, University of California, Berkeley, 2001  
+Ph.D. Civil and Environmental Engineering, University of California, Berkeley, 2005<br>
+M.S. Civil and Environmental Engineering, University of California, Berkeley, 2001<br>
 B.S. Civil and Environmental Engineering, Ohio State University, 2000
 
 Research Interests
 ======
-Traffic Flow Analysis and Modeling  
-Traffic Control  
-Connected Autonomous Vehicles  
-Freight Transporation  
+Traffic Flow Analysis and Modeling<br>
+Traffic Control<br>
+Connected Autonomous Vehicles<br>
+Freight Transporation
 
 For more info
 ------
-[Curriculum Vitae](https://academicpages.github.io/markdown/)  
+[Curriculum Vitae](https://academicpages.github.io/markdown/)<br>
 [Mid-America Freight Coalition](https://midamericafreight.org/)
